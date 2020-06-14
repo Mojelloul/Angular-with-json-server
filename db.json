@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Html5",
+      "complated": true
+    },
+    {
+      "id": 2,
+      "label": "Css",
+      "complated": false
+    },
+    {
+      "label": "JavaScript",
+      "complated": true,
+      "id": 3
+    },
+    {
+      "label": "Angular9",
+      "complated": true,
+      "id": 4
+    },
+    {
+      "label": "php",
+      "complated": false,
+      "id": 5
+    },
+    {
+      "label": "nestJs",
+      "complated": true,
+      "id": 6
+    },
+    {
+      "label": "java",
+      "complated": false,
+      "id": 7
+    }
+  ]
+}
